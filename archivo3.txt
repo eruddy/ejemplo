@@ -1,7 +1,6 @@
 <h1>Este el mi TERCER archivo</h1>
 
 
-<p>Esto va la segunda version ARCHIVO3.TXT</p>
-<p>Esto va la segunda version ARCHIVO3.TXT parte 2</p>
+************************
 
-Tercera fila C
+esto se trabaja en la rama desarrollo
